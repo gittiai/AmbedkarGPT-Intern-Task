@@ -1,7 +1,7 @@
 # AmbedkarGPT-Intern-Task
 
 
-# Kalpit Pvt Ltd – AI Intern Hiring  
+
 ## Assignment 01 + Assignment 02 
 
 ---
